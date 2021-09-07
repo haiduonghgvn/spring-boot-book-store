@@ -1,0 +1,8 @@
+{
+  "name": "store-book",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
